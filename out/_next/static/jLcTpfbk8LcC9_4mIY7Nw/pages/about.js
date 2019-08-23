@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{Juyh:function(n,t,u){"use strict";u.r(t);var e=u("q1tI"),o=u.n(e).a.createElement;t.default=function(){return o("div",null,"Test")}},rB5V:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/about",function(){var n=u("Juyh");return{page:n.default||n}}])}},[["rB5V",1,0]]]);
