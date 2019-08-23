@@ -1,0 +1,27 @@
+{
+  "name": "capabilities_next",
+  "version": "1.0.0",
+  "description": "static page creations for the breaking monolithic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SakthikannanSubramanian/capabilities_next.git"
+  },
+  "author": "Sakthikannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SakthikannanSubramanian/capabilities_next/issues"
+  },
+  "homepage": "https://github.com/SakthikannanSubramanian/capabilities_next#readme",
+  "dependencies": {
+    "next": "^9.0.4",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
