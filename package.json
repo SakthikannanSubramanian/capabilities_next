@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/SakthikannanSubramanian/capabilities_next",
   "dependencies": {
-    "next": "^9.0.4",
+    "next": "^9.3.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   },
